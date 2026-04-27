@@ -1,6 +1,15 @@
 @import "tailwindcss";
+@import "../src/gradients.css";
 
 :root {
+  /* Brand Colors */
+
+  --color-primary: #28db84;
+  --color-secondary: #32d9d2;
+
+  /* --color-primary: #32d9d2;
+  --color-secondary: #28db84; */
+
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;
